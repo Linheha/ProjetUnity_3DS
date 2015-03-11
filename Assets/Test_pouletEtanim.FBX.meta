@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: e7a768a245404294eb9d0adee7e37ad6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: aile droite
+    100002: aile gauche
+    100004: Ailes
+    100006: bone bidule droit
+    100008: bone bidule gauche
+    100010: bone corps
+    100012: bone cuisse droit
+    100014: bone cuisse gauche
+    100016: bone tibiat droit
+    100018: bone tibiat gauche
+    100020: corps
+    100022: Crete
+    100024: oeil droite
+    100026: oeil gauche
+    100028: Pate droite
+    100030: pate gauche
+    100032: queue
+    100034: //RootNode
+    400000: aile droite
+    400002: aile gauche
+    400004: Ailes
+    400006: bone bidule droit
+    400008: bone bidule gauche
+    400010: bone corps
+    400012: bone cuisse droit
+    400014: bone cuisse gauche
+    400016: bone tibiat droit
+    400018: bone tibiat gauche
+    400020: corps
+    400022: Crete
+    400024: oeil droite
+    400026: oeil gauche
+    400028: Pate droite
+    400030: pate gauche
+    400032: queue
+    400034: //RootNode
+    4300000: corps
+    4300002: Crete
+    4300004: queue
+    4300006: aile droite
+    4300008: aile gauche
+    4300010: pate gauche
+    4300012: Pate droite
+    4300014: oeil gauche
+    4300016: oeil droite
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: aile droite
+    13700002: aile gauche
+    13700004: corps
+    13700006: Crete
+    13700008: oeil droite
+    13700010: oeil gauche
+    13700012: Pate droite
+    13700014: pate gauche
+    13700016: queue
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ailes
+        weight: 1
+      - path: Ailes/aile droite
+        weight: 1
+      - path: Ailes/aile gauche
+        weight: 1
+      - path: bone corps
+        weight: 1
+      - path: bone corps/bone bidule droit
+        weight: 1
+      - path: bone corps/bone bidule droit/bone cuisse droit
+        weight: 1
+      - path: bone corps/bone bidule droit/bone cuisse droit/bone tibiat droit
+        weight: 1
+      - path: bone corps/bone bidule gauche
+        weight: 1
+      - path: bone corps/bone bidule gauche/bone cuisse gauche
+        weight: 1
+      - path: bone corps/bone bidule gauche/bone cuisse gauche/bone tibiat gauche
+        weight: 1
+      - path: corps
+        weight: 1
+      - path: Crete
+        weight: 1
+      - path: oeil droite
+        weight: 1
+      - path: oeil gauche
+        weight: 1
+      - path: Pate droite
+        weight: 1
+      - path: pate gauche
+        weight: 1
+      - path: queue
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
